@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Java Packages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Java Packages/commons-io-2.5-bin.tar/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/hadoop-core-0.20.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/mail-1.5.0-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/hbase-0.90.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/joda-time-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/opencsv-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Packages/commons-io-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hbase-BulkLoad.iml" filepath="$PROJECT_DIR$/.idea/Hbase-BulkLoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Codes/Java Codes.iml" filepath="$PROJECT_DIR$/Java Codes/Java Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkCodes/src/Learning_Scala/Learning_Scala.iml" filepath="$PROJECT_DIR$/SparkCodes/src/Learning_Scala/Learning_Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkCodes/SparkCodes.iml" filepath="$PROJECT_DIR$/SparkCodes/SparkCodes.iml" />
+    </modules>
+  </component>
+</project>

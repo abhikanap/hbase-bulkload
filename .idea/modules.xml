@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Hbase-BulkLoad.iml" filepath="$PROJECT_DIR$/.idea/Hbase-BulkLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Codes/Java Codes.iml" filepath="$PROJECT_DIR$/Java Codes/Java Codes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkCodes/src/Learning_Scala/Learning_Scala.iml" filepath="$PROJECT_DIR$/SparkCodes/src/Learning_Scala/Learning_Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkCodes/RDD_to_Phoenix.iml" filepath="$PROJECT_DIR$/SparkCodes/RDD_to_Phoenix.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkCodes/SparkCodes.iml" filepath="$PROJECT_DIR$/SparkCodes/SparkCodes.iml" />
     </modules>
   </component>
